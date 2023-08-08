@@ -4,7 +4,7 @@
  ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigobeckmann&show_icons=true&locale=en" alt="rodrigobeckmann" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigobeckmann&show_icons=true&locale=en&layout=compact" alt="rodrigobeckmann" /></p>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigobeckmann&show_icons=true&locale=en" alt="rodrigobeckmann" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigobeckmann&show_icons=true&locale=en&layout=compact" alt="rodrigobeckmann" />
+</p>
