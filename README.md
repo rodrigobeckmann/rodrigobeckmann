@@ -5,6 +5,6 @@
 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigobeckmann&show_icons=true&locale=en" alt="rodrigobeckmann" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigobeckmann&show_icons=true&locale=en&layout=compact" alt="rodrigobeckmann" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigobeckmann&show_icons=true&locale=en" alt="rodrigobeckmann" />
 </p>
